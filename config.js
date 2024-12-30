@@ -26,7 +26,7 @@ global.caption = process.env.CAPTION || global.caption || "©𝙄𝘾𝙃𝙄�
 
 global.devs = "" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '27710200228') : "null";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '27710200228') : ""𝙄𝘾𝙃𝙄𝙂𝙊☾;
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '27710200228') : "27710200228";
 
 
 
